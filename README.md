@@ -2,7 +2,7 @@
 
 Learing [Rust](https://www.rust-lang.org/)...
 
-![](https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif)
+![me tbh](https://media1.giphy.com/media/hrRJ41JB2zlgZiYcCw/200w.gif?cid=82a1493bg7wevc6559i829zknooojvptsfq3ssidg7i9olnp&rid=200w.gif&ct=g)
 
 > 📧 contact@eyzi.dev
 
