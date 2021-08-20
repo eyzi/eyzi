@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @eyzi
-- 👀 I’m interested in application and game development
-- 🌱 I’m currently learning Rust
-- 📫 Reach me via email `contact@eyzi.dev` or Twitter `@TheEyzi`
+# Application and Game developer
+
+Learing [Rust](https://www.rust-lang.org/)...
+
+![](https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif)
+
+> 📧 contact@eyzi.dev
 
 <!---
 eyzi/eyzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
