@@ -1,4 +1,4 @@
-name: "my will to live:"
+name: "my life is"
 on:
   push:
     branches: [ main ]
@@ -8,4 +8,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: A random script
-        run: echo Pass
+        run: exit 1
