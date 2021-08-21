@@ -1,7 +1,6 @@
 # Application and Game developer
 
-Learning [Rust](https://www.rust-lang.org/) at the moment.
-
+Learning [Rust](https://www.rust-lang.org/) at the moment...  
 ![](https://gifdownload.net/wp-content/uploads/2019/01/computer-anime-gif-2.gif)
 
 > 📧 contact@eyzi.dev
