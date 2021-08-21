@@ -1,9 +1,9 @@
-name: Vanity Build
+name: "my will to live:"
 on:
   push:
     branches: [ main ]
 jobs:
-  build:
+  vanity-build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
