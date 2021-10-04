@@ -1,8 +1,8 @@
-# Application and Game developer
+# Application developer
 
 ![Vanity Build](https://github.com/eyzi/eyzi/actions/workflows/life.yml/badge.svg)
 
-Learning [Rust](https://www.rust-lang.org/) at the moment...  
+Learning Unity at the moment...  
 ![](https://gifdownload.net/wp-content/uploads/2019/01/computer-anime-gif-2.gif)
 
 > 📧 contact@eyzi.dev
