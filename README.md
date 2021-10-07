@@ -1,4 +1,4 @@
-# Application developer
+# Software Developer
 
 ![Vanity Build](https://github.com/eyzi/eyzi/actions/workflows/life.yml/badge.svg)
 
