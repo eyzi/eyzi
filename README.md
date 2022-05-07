@@ -5,7 +5,6 @@ Hi. I'm Eyzi <sub>`pronounced A.Z.`</sub> and I'm a dummy. Creative Lead at [Moo
 
 ![Vanity Build](https://github.com/eyzi/eyzi/actions/workflows/life.yml/badge.svg)
 
-Learning Rust <img src="https://rustacean.net/favicon.png" alt="Ferris (Rust Mascot) favicon" width="16" /> and Unity <img src="https://unity.com/themes/contrib/unity_base/images/favicons/favicon.ico" alt="Unity favicon" width="16" /> at the moment... \
 ![](https://i.imgur.com/r3no3mP.gif) 
 
 > 📧 contact@eyzi.dev
