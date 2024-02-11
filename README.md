@@ -1,6 +1,6 @@
 ### Software Developer
 
-i write bad code so you dont have to
+i write bad code so you dont have to 
 
 ![Vanity Build](https://github.com/eyzi/eyzi/actions/workflows/life.yml/badge.svg) \
 ![](https://i.imgur.com/r3no3mP.gif) 
