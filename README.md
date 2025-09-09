@@ -8,3 +8,4 @@ i write bad code so you dont have to
 Creative Lead at [Moonlit Works <img src="https://cdn.moonlit.works/logo/favicon.ico" alt="Moonlit Works logo" width="16" />](https://moonlit.works)
 
 > 📧 contact@eyzi.dev
+
